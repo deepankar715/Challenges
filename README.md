@@ -1,2 +1,2 @@
 # challenges
-Programming challenges
+Programming/other challenges
