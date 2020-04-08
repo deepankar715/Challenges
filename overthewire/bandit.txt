@@ -1,0 +1,33 @@
+# These are the solutions for https://overthewire.org/wargames/bandit/
+# I had saved these keys so that I could resume solving from a certain level and/or to solve certain challenges multiple times.
+
+
+level0: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+level1: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+level2: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+level3: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+level4: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+level5: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+level6: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+level7: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+level8: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+level9: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+level10: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR 
+level11: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu 
+level12: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+level13: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e 
+level14: BfMYroe26WYalil77FoDi9qh59eK5xNr 
+level15: cluFn7wTiGryunymYOu4RcffSxQluehd 
+level16: cluFn7wTiGryunymYOu4RcffSxQluehd 
+level17: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd 
+level18: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x 
+level19: GbKksEFF4yrVs6il55v6gwY5aVje5f0j 
+level20: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr 
+level21: Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI 
+level22: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+level23: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 
+level24: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG 
+level25: no key
+level26: 
+
+# This is an incomplete list. There are more challenges.
